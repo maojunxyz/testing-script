@@ -1,0 +1,5 @@
+= multipleCopiesOfTheDate for sql file
+
+1. Delete the insert statement, keeping only the value.
+2. run multipleCopiesOfTheDate.py
+3. run insert_prefix.sh
